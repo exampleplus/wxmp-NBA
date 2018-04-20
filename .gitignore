@@ -1,0 +1,13 @@
+.settings
+.settings/*
+.buildpath
+.project
+*.log
+.idea
+api.txt
+project.config.json
+node_modules/*
+node_modules/
+node_modules
+.vscode/
+.vscode
